@@ -1,2 +1,1 @@
-# backend-cooking
-Backend de aplicacion de recetas
+Aplicacion de recetas con node js y angular 
