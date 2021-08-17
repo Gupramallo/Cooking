@@ -13,7 +13,7 @@ app.use(express.json());
 
 //Rutas
 app.use(cors());
-app.use('/api',recepie_routes);
+app.use('/api', recepie_routes);
 
 
 
